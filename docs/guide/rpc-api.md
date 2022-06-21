@@ -19,7 +19,7 @@ Visit our [API Playground](https://metamask.github.io/api-playground/api-documen
 
 ## Ethereum JSON-RPC Methods
 
-For the Ethereum JSON-RPC API, please see [the Ethereum wiki](https://eth.wiki/json-rpc/API#json-rpc-methods).
+For the Ethereum JSON-RPC API, please see [the Ethereum wiki](https://ethereum.org/en/developers/docs/apis/json-rpc/#top).
 
 Important methods from this API include:
 
